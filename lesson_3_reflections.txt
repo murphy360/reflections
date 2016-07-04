@@ -6,22 +6,22 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+   *** You can stay in charge of changes that are made remotely... only allowing those in that you choose. 
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
-    Fill in your answer here
+    *** Forks use GitHub servers to create an editable copy of another user's repository into your account.  it provides reference 
+    *** Clones create local copies of repositories, either remote to local or local to local. 
+    *** branches creates a divergence in a single repository as you take different paths down development of a single repository's code. 
 
-What is the benefit of having a copy of the last known state of the remote
-stored locally?
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
-    Fill in your answer here
+    *** You have an idea what the shore side is looking at. 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    *** Detailed named versions / allow only one person to work on a file at a time. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
